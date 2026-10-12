@@ -30,13 +30,12 @@ chmod +x tool.sh
 ./tool.sh -d     # disk usage only
 ./tool.sh -m     # memory usage only
 ./tool.sh -h     # help
+
+## Example Output
    ![Full report](screenshots/01-full-report.jpg)
    ![Memory only](screenshots/02-memory-only.jpg)
    ![Help menu](screenshots/03-help.jpg)
-   ![Error handling](screenshots/04-error.jpg)```
-
-## Example Output
-
+   ![Error handling](screenshots/04-error.jpg)
 
 ## Challenges Faced
 - I got a syntax error when I edited the script, so I rewrote the file cleanly.
