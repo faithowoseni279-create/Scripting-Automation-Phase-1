@@ -30,10 +30,10 @@ python3 tool.py -h                    # help
 ```
 
 ## Example Output
-![Passwords](screenshots/01-passwords.jpg)
-![Options](screenshots/02-options.jpg)
-![Help menu](screenshots/03-help.jpg)
-![Error handling](screenshots/04-error.jpg)
+![Passwords](screenshot/01-passwords.jpg)
+![Options](screenshot/02-options.jpg)
+![Help menu](screenshot/03-help.jpg)
+![Error handling](screenshot/04-error.jpg)
 
 ## Challenges Faced
 - I had to learn how `argparse` reads options like `-l` and `-c`.
